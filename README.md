@@ -1,6 +1,8 @@
 # Greetr
 Simple library/framework borrowing design patterns from jQuery
 
+Help and inspiration from Anthony Alicea's Udemy course 
+
 Example Usage 
 
 HTML (index.html) 
